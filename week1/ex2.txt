@@ -1,0 +1,51 @@
+    1  whoami
+    2  mkdir C:/Users/A/Desktop/week1
+    3  mkdir Desktop/OS/week1
+    4  mkdir /Users/A/Desktop/OS/week1
+    5  mkdir OS/week1
+    6  mkdir ~/OS/week1
+    7  mkdir -p ~/OS/week1
+    8  cd /home/nailyavaliull/week1
+    9  cd ~/week1
+   10  cd ~/OS/week1
+   11  mkdir ~/Desktop/OS/week1
+   12  mkdir ~/Desktop/OS
+   13  realpath week1
+   14  cd ~/OS/week1
+   15  ls -r /usr/bin/'gcc'
+   16  ls -r /usr/bin/"gcc" > ~/OS/week1/ex1.txt
+   17  ls -l /usr/bin/"gcc" > ~/OS/week1/ex1.txt
+   18  cd ..
+   19  ls -l /usr/bin/"gcc" >~/OS/week1/ex1.txt
+   20  cd /usr
+   21  cd /bin
+   22  cd ..
+   23  ls -l usr/bin/*.gcc >~/OS/week1/ex1.txt
+   24  ls -l usr/bin/.gcc
+   25  ls -l usr/bin/"*.gcc"
+   26  ls -l usr/bin/".gcc"
+   27  ls -l usr/bin/"gcc"
+   28  cd /usr/bin
+   29  ls -l *.gcc
+   30  ls -l
+   31  ls -l *rwxrw*
+   32  ls -l *rwxr*
+   33  ls -lr 
+   34  ls -lr *apt*
+   35  ls -lr *gcc*
+   36  cd ..
+   37  ls -lr /usr/bin/*apt* > ~/OS/week1/ex1.txt
+   38  whoami
+   39  hostname
+   40  man man
+   41  head -n 2 < ~/OS/week1/ex1.txt
+   42  tail -n 3 < ~/OS/week1/ex1.txt
+   43  cd ~/OS
+   44  pwd
+   45  cd ..
+   46  cd ~
+   47  cd ..
+   48  mv ~/OS/week1/ex1.txt ~/OS
+   49  mv ~/OS/ex1.txt ~OS/week1
+   50  mv ~/OS/ex1.txt ~/OS/week1
+   51  history > ~/OS/week1/ex2.txt
