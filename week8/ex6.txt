@@ -1,0 +1,6 @@
+Solution:
+Page size = 8KB = 2^13B
+Offset = 13bits
+# of virtual pages = # of entries in page table = 2^(16-13) = 2^3 = 8
+
+Answer: 8

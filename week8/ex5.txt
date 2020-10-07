@@ -1,0 +1,2 @@
+Physical addresses refer to hardware addresses of physical memory, 
+while virtual addresses are mapped into physical addresses
