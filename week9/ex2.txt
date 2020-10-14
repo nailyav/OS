@@ -1,0 +1,3 @@
+hit/miss ratio depends on numbers in input:
+more numbers have the same value then hit rate is greater, less - hit rate is smaller;
+if numbers are all different then there are no hits at all
