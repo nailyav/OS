@@ -1,0 +1,4 @@
+i only had this outputs:
+5629499534385398 ../week1/file.txt
+/home/nailyavaliull/OS/week1/file.txt
+/home/nailyavaliull/OS/week10/_ex2.txt
