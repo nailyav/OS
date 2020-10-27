@@ -1,0 +1,14 @@
+output 1:
+Hello world
+Hello world
+
+output 2:
+Hello world
+		// empty line
+		// empty line
+
+the difference between two outputs:
+printf() is buffered and the buffer is not flushed until a new line is printed. when forking a process 
+in the program 1 the child process inherits every part of the parent process, including the output buffer.
+but in the program 2 when a new line is printed the buffer is flushed and a child process does not 
+inherit the "Hello world" string from the parent process  
